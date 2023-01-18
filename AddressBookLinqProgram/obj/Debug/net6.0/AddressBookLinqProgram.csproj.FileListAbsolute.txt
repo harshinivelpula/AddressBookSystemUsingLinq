@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\bin\Debug\net6.0\AddressBookLinqProgram.exe
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\bin\Debug\net6.0\AddressBookLinqProgram.deps.json
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\bin\Debug\net6.0\AddressBookLinqProgram.runtimeconfig.json
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\bin\Debug\net6.0\AddressBookLinqProgram.dll
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\bin\Debug\net6.0\AddressBookLinqProgram.pdb
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\AddressBookLinqProgram.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\AddressBookLinqProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\AddressBookLinqProgram.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\AddressBookLinqProgram.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\AddressBookLinqProgram.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\AddressBookLinqProgram.dll
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\refint\AddressBookLinqProgram.dll
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\AddressBookLinqProgram.pdb
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\AddressBookLinqProgram.genruntimeconfig.cache
+C:\Users\DELL\source\repos\AddressBookLinqProgram\AddressBookLinqProgram\obj\Debug\net6.0\ref\AddressBookLinqProgram.dll
